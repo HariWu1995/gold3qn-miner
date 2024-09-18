@@ -2,8 +2,13 @@
 ### Python template
 
 # Tensorboard logs
-Source-Code/logs
-Source-Code/logs_old
+Source-Code-Template/logs
+Source-Code-Template/logs_old
+Source-Code-DFP-8Layers/logs
+Source-Code-DFP-8Layers/logs_old
+
+# Large-File
+*.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
